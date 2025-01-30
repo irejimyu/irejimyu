@@ -64,3 +64,6 @@ PersonalInfo info() {
 
 ![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logoColor=white&color=6aa6f8&logo=apple)
 
+---
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=irejimyu&right_color=%236aa6f8&left_text=Hello%20Visitors)
